@@ -1,0 +1,15 @@
+this is version 1 of my project
+I want this to go into commit 2
+changed by yusuf
+
+this is changed now tutorial #9
+
+changing for tutorial #12
+
+file modified and this change is committed.
+
+file modified and staged. Not commited. This line will be deleted later and checkout will be done on this line.
+
+
+
+
